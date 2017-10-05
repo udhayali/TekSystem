@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102673" started-at="2017-10-05T13:08:02Z" finished-at="2017-10-05T13:09:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102673" started-at="2017-10-05T13:08:02Z" finished-at="2017-10-05T13:09:44Z">
+      <class name="tek.TestForm">
+        <test-method status="PASS" signature="TC001()[pri:1, instance:tek.TestForm@ae45eb6]" name="TC001" duration-ms="41788" started-at="2017-10-05T09:08:02Z" finished-at="2017-10-05T09:08:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method status="PASS" signature="TC002()[pri:2, instance:tek.TestForm@ae45eb6]" name="TC002" duration-ms="17618" started-at="2017-10-05T09:08:43Z" finished-at="2017-10-05T09:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method status="PASS" signature="TC003()[pri:3, instance:tek.TestForm@ae45eb6]" name="TC003" duration-ms="16203" started-at="2017-10-05T09:09:01Z" finished-at="2017-10-05T09:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003 -->
+        <test-method status="PASS" signature="TC004()[pri:4, instance:tek.TestForm@ae45eb6]" name="TC004" duration-ms="13310" started-at="2017-10-05T09:09:17Z" finished-at="2017-10-05T09:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+        <test-method status="PASS" signature="TC005()[pri:5, instance:tek.TestForm@ae45eb6]" name="TC005" duration-ms="13657" started-at="2017-10-05T09:09:31Z" finished-at="2017-10-05T09:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005 -->
+      </class> <!-- tek.TestForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
